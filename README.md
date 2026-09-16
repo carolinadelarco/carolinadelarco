@@ -1,8 +1,8 @@
 # Carolina del Arco
 
-**DAM | Backend & Cybersecurity | Java · Python · MySQL**
+**DAM | Android |  Kotlin 
 
-Multiplatform Application Development graduate with a focus on backend and cybersecurity. Looking for an internship where I can contribute from day one.
+Multiplatform Application Development graduate 
 
 - Languages: Java, Python, C#, Kotlin, MySQL, MongoDB
 - Interests: Backend, Cybersecurity, Android Mobile Development
