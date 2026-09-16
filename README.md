@@ -1,6 +1,6 @@
 # Carolina del Arco
 
-**DAM | Android |  Kotlin 
+DAM | Android |  Kotlin 
 
 Multiplatform Application Development graduate 
 
